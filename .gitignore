@@ -1,0 +1,5 @@
+downloads/
+out/
+sysroot/
+emulators/
+__pycache__/
